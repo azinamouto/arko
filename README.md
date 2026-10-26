@@ -418,7 +418,7 @@ Results should be independently validated before using generated algorithms in c
 
 ### 論理を繋ぎ、可能性を創る。
 
-*Connect logic. Create possibilities.*
+*Connect logic. Create possibilities. Still work on progress*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:050505,50:161616,100:303030&section=footer" width="100%" alt="ARKO footer"/>
 
